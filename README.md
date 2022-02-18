@@ -16,3 +16,9 @@
 ## Installation
 
 - [Refer this page](https://www.jenkins.io/doc/book/installing/) for installation steps.
+
+## Run with Docker
+
+ With the help of ``docker``, you don't need to follow long installation steps.
+
+- First install ``docker`` 
