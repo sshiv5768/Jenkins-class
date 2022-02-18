@@ -7,7 +7,7 @@
 - It was designed for CI/CD.
 - When you install Jenkins, a new user gets created.Whatever you do in Jenkins will be run as Jenkins user.
 
-## Things to keep in mind while working with Jenkins
+### Things to keep in mind while working with Jenkins
 
 - Ensure all the environmental variables like PATH, JAVA_HOME etc are defined correctly.
 - Ensure the software that you are going to use is correctly installed and configured.
