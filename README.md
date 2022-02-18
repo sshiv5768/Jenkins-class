@@ -13,6 +13,6 @@
 - Ensure the software that you are going to use is correctly installed and configured.
 - Ensure user have all necessary permissions.
 
-### Installation
+## Installation
 
 - [Refer this page](https://www.jenkins.io/doc/book/installing/) for installation steps.
