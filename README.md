@@ -21,4 +21,6 @@
 
  With the help of ``docker``, you don't need to follow long installation steps.
 
-- First install ``docker`` 
+- First install ``docker``, [Follow this steps](https://docs.docker.com/engine/install/) for Docker installation.
+
+- Run this command ``docker pull jenkins/jenkins``.
