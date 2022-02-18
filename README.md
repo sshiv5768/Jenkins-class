@@ -9,7 +9,7 @@
 
 ### Things to keep in mind while working with Jenkins
 
-- Ensure all the environmental variables like ```PATH``,``JAVA_HOME``,``PYTHON_HOME``, etc are defined correctly.
+- Ensure all the environmental variables like ``PATH``,``JAVA_HOME``,``PYTHON_HOME``, etc are defined correctly.
 - Ensure the software that you are going to use is correctly installed and configured.
 - Ensure user have all necessary permissions.
 
