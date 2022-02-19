@@ -42,3 +42,4 @@
 
 It's the starting screen of Jenkins. It will ask you for the administrator password, which is already present in your terminal.  
 ![Screenshot from 2022-02-19 18-04-22](https://user-images.githubusercontent.com/40575397/154801409-a5dda3b6-f5ce-4f18-87e9-9e1a2fb323cb.jpg)
+
