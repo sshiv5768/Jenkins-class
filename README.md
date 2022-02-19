@@ -19,8 +19,12 @@
 
 ## Run with Docker
 
- With the help of ``docker``, you don't need to follow long installation steps.
+ With the help of Docker, you don't need to follow long installation steps.
 
-- First install ``docker``, [Follow this steps](https://docs.docker.com/engine/install/) for Docker installation.
+- First install Docker, [Follow this steps](https://docs.docker.com/engine/install/) for Docker installation.
 
-- Run this command ``docker pull jenkins/jenkins``.
+- Run below command for pulling latest Jenkins image from Docker hub.
+
+``` 
+    docker pull jenkins/jenkins
+```
