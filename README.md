@@ -3,7 +3,7 @@
 ## What is Jenkins?
 
 - It is an Open-source CI/CD engine.
-- It is simple scheduler which internally calls/executes linux or windows commands. 
+- It is simple scheduler which internally calls/executes linux or windows commands.
 - It was designed for CI/CD.
 - When you install Jenkins, a new user gets created.Whatever you do in Jenkins will be run as Jenkins user.
 
@@ -25,6 +25,16 @@
 
 - Run below command for pulling latest Jenkins image from Docker hub.
 
-``` 
-    docker pull jenkins/jenkins
+```#docker
+    docker pull jenkins/jenkins:lts
 ```
+
+- Now run below command to run jenkins on port ``8082``.
+  
+  ```#docker
+  docker container run -p 8082:8080 jenkins/jenkins:lts
+
+  ```
+
+- Go to port ``8082`` and you will see below screen.  
+  
