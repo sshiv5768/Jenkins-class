@@ -1,2 +1,3 @@
 https://medium.com/codex/how-to-push-a-docker-image-to-docker-hub-using-jenkins-487fb1fcbe25
 https://medium.com/ampersand-academy/integrate-bitbucket-jenkins-c6e51103d0fe
+https://towardsdatascience.com/how-to-become-an-aws-certified-cloud-practitioner-in-10-days-83a08e316e72
